@@ -2,3 +2,4 @@ This is the first line
 This is the second line
 This line was created in localbranch
 This line was created in remotebranch
+This line was added after v0.0
